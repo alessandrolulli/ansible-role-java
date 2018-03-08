@@ -1,0 +1,2 @@
+- name: java
+  src: https://github.com/alessandrolulli/ansible-role-java
